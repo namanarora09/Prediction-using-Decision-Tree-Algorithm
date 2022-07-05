@@ -1,0 +1,1 @@
+Here Given is a ipynb notebook that classifies the species of the flower based on various aspects like petal length etc. Further it uses the decision tree algorithm for the predicition of the species.
